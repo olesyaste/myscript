@@ -1,1 +1,3 @@
 # myscript
+
+`npm script.js`
