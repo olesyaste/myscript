@@ -1,3 +1,4 @@
 # myscript
 
-`npm script.js`
+`npm install`
+`node script.js`
